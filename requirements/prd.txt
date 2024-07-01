@@ -5,7 +5,7 @@ django-decorator-include==3.0
 django-health-check==3.18.2
 django-nested-admin==4.0.2
 django-storages[s3]==1.14.3
-django-sql-explorer[charts]==4.3
+django-sql-explorer[charts]==5.0.1
 gunicorn==22.0.0
 kaleido==0.2.1
 openpyxl==3.1.3

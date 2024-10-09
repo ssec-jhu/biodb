@@ -2,7 +2,7 @@
 
 sphinx==7.3.7
 sphinx_rtd_theme==2.0.0
-sphinx-automodapi==0.17.0
-nbsphinx==0.9.4
+sphinx-automodapi==0.18.0
+nbsphinx==0.9.5
 
 matplotlib<3.9.0  # See https://github.com/DeepLabCut/DeepLabCut/issues/2581

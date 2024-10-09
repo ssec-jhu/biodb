@@ -1,18 +1,18 @@
-boto3==1.34.151
-django==5.0.9
+boto3==1.35.36
+django==5.1.2
 django-crontab==0.7.1
 django-decorator-include==3.0
 django-health-check==3.18.3
-django-nested-admin==4.1.0
+django-nested-admin==4.1.1
 django-storages[s3]==1.14.4
 django-sql-explorer[charts]==4.3
 gunicorn==22.0.0
 kaleido==0.2.1
 openpyxl==3.1.5
-pandas==2.2.2
-plotly==5.23.0
-psycopg[binary,pool]==3.2.1
-pyyaml==6.0.1
+pandas==2.2.3
+plotly==5.24.1
+psycopg[binary,pool]==3.2.3
+pyyaml==6.0.2
 xlsxwriter==3.2.0
 whitenoise==6.7.0
 
